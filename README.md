@@ -9,7 +9,7 @@ Sistema de cadastro de pacientes para a recepção de um consultório, implement
 | `gradio_app/` | Gradio (`gr.Blocks`) | Local | `pacientes.csv` no disco |
 | `streamlit_app/` | Streamlit (`st.form`) | Streamlit Community Cloud | `st.session_state` + botão de download do CSV |
 
-**App publicado:** <COLE AQUI O LINK .streamlit.app>
+**App publicado:** <https://unicampdatasciencecadastro-paciente-besbmjyevsimyaikvl7ojv.streamlit.app>
 
 ## Campos
 Nome, Idade, Convênio (Particular, Unimed, Bradesco Saúde, SulAmérica, Outro), Prioridade (1–5, 5 = urgente), Motivo/observações. Cada envio grava uma linha com data/hora.
